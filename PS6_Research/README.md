@@ -12,7 +12,11 @@ Region
 Temp
 
 ## Widgets and Panels
-* 66
+* The first graph is a line graph. This graph reflects the change in temperature in different regions from 1980 to 2020 in different areas. The change in temperature can be clearly seen from this graph.
+
+* The Trend Line is also added to this graph, which shows whether the trend of temperature change is positively or negatively correlated.
+
+* The second one is a table. It shows the various values of temperature change from 1980 to 2020. For example, the mean, median, maximum, minimum, standard deviation, and number. These values are evident in the table.
 
 
 
